@@ -30,4 +30,4 @@ No extra dependencies — download and run.
 Documentation: https://xtream-iptv-lab.softonx.xyz
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                 
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                  
